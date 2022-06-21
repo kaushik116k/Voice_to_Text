@@ -4,9 +4,7 @@ This app reads the text when the user clicks the speaker button beside the text 
 
 Please go through the "voice_text.pdf" for more information.
 
-
 ## Demo
 
-<p align="center">
-    <img src="C:\Users\kaush\Downloads\prototype.mp4" alt="Demo" border="0">
-</p>
+https://user-images.githubusercontent.com/60555992/174893700-619b5a3f-9a01-4283-b0cd-ad97135947e1.mp4
+
